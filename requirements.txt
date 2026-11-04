@@ -1,5 +1,5 @@
 streamlit
 sentence-transformers
-faiss-cpu==1.7.4
+faiss-cpu
 numpy
 groq
