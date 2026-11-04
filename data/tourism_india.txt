@@ -1,0 +1,430 @@
+OA – Travel Guide
+Overview
+
+Goa is a coastal state in western India known for beaches, nightlife, Portuguese heritage, churches, and water sports. Suitable for couples, friends, solo travelers, and party tourism.
+
+Best Time to Visit
+
+October to March is ideal. Monsoon (June–Sept) is lush but limits water sports.
+
+Top Places
+
+Baga & Calangute – nightlife, parasailing
+
+Anjuna & Vagator – sunset, flea market
+
+Old Goa – Basilica of Bom Jesus, Se Cathedral
+
+Panaji – Latin Quarter, cafes
+
+Dudhsagar Falls – waterfalls
+
+7-Day Itinerary
+
+Day 1: Calangute → Baga → Tito’s Lane
+Day 2: Anjuna → Vagator → Chapora Fort
+Day 3: Old Goa churches → Panaji
+Day 4: Dudhsagar → Spice plantation
+Day 5: South Goa (Colva, Benaulim)
+Day 6: Water sports + shopping
+Day 7: Relaxation + return
+
+Expenses (per person approx)
+
+Accommodation: ₹1200–2500/night
+Food: ₹800/day
+Local transport: ₹400/day
+Activities: ₹2000 total
+
+Total for 7 days: ₹18,000–₹25,000
+
+Tips
+
+Rent scooter for mobility
+
+Avoid unsafe beaches at night
+
+Book hotels early in Dec–Jan
+
+KERALA – Travel Guide
+Overview
+
+Kerala is known for backwaters, tea hills, beaches, Ayurveda, and wildlife.
+
+Best Time to Visit
+
+October–March. Monsoon for Ayurveda tourism.
+
+Top Places
+
+Munnar – tea gardens
+
+Thekkady – Periyar sanctuary
+
+Alleppey – houseboats
+
+Kochi – colonial heritage
+
+Varkala – cliff beaches
+
+7-Day Itinerary
+
+Day 1: Munnar
+Day 2: Munnar sightseeing
+Day 3: Thekkady
+Day 4: Alleppey houseboat
+Day 5: Kochi
+Day 6: Varkala
+Day 7: Relax + return
+
+Expenses
+
+Accommodation: ₹1500/night
+Houseboat: ₹6000 (shared)
+Food: ₹700/day
+Transport: ₹500/day
+
+Total: ₹22,000–₹30,000
+
+Tips
+
+Book houseboats early
+
+Carry mosquito repellent
+
+Light cotton clothes
+
+RAJASTHAN – Travel Guide
+Overview
+
+Rajasthan is famous for forts, palaces, desert culture, and royal history.
+
+Best Time
+
+October–March.
+
+Top Places
+
+Jaipur – Amber Fort, Hawa Mahal
+
+Jodhpur – Mehrangarh Fort
+
+Jaisalmer – desert safari
+
+Udaipur – lakes
+
+7-Day Itinerary
+
+Day 1–2: Jaipur
+Day 3: Jodhpur
+Day 4–5: Jaisalmer
+Day 6–7: Udaipur
+
+Expenses
+
+Accommodation: ₹1000–2000/night
+Desert safari: ₹2000
+Food: ₹600/day
+Transport: ₹800/day
+
+Total: ₹20,000–₹28,000
+
+Tips
+
+Avoid summer
+
+Carry sunscreen
+
+Book desert camps in advance
+
+DELHI – Travel Guide
+Overview
+
+Delhi blends Mughal history with modern capital life.
+
+Best Time
+
+October–March.
+
+Top Places
+
+Red Fort, Qutub Minar, India Gate, Lotus Temple, Jama Masjid.
+
+7-Day Itinerary
+
+Day 1–2: Old Delhi
+Day 3: New Delhi
+Day 4: Museums
+Day 5: Markets
+Day 6: Food tour
+Day 7: Shopping
+
+Expenses
+
+Accommodation: ₹1500/night
+Food: ₹500/day
+Metro: ₹200/day
+
+Total: ₹12,000–₹18,000
+
+Tips
+
+Use metro
+
+Avoid peak summer
+
+Beware of scams near monuments
+
+HIMACHAL PRADESH – Travel Guide
+Overview
+
+Mountain state known for snow, trekking, and hill stations.
+
+Best Time
+
+March–June, Dec–Feb for snow.
+
+Top Places
+
+Shimla, Manali, Dharamshala, Dalhousie.
+
+7-Day Itinerary
+
+Day 1–2: Shimla
+Day 3–4: Manali
+Day 5: Solang Valley
+Day 6: Dharamshala
+Day 7: Dalhousie
+
+Expenses
+
+Accommodation: ₹1200/night
+Food: ₹600/day
+Transport: ₹700/day
+
+Total: ₹18,000–₹25,000
+
+Tips
+
+Avoid night hill driving
+
+Carry warm clothes
+
+Check road conditions
+
+TAMIL NADU – Travel Guide
+Overview
+
+Known for temples, classical culture, hill stations, and beaches.
+
+Best Time
+
+October–March.
+
+Top Places
+
+Chennai, Madurai, Rameswaram, Ooty, Kanyakumari.
+
+7-Day Itinerary
+
+Day 1: Chennai
+Day 2–3: Madurai
+Day 4: Rameswaram
+Day 5–6: Ooty
+Day 7: Kanyakumari
+
+Expenses
+
+Accommodation: ₹1200/night
+Food: ₹500/day
+Transport: ₹700/day
+
+Total: ₹17,000–₹24,000
+
+Tips
+
+Dress modestly in temples
+
+Carry water in summer
+
+KASHMIR – Travel Guide
+Overview
+
+Known as Paradise on Earth, famous for lakes, snow, and valleys.
+
+Best Time
+
+April–October, winter for snow.
+
+Top Places
+
+Srinagar, Gulmarg, Pahalgam, Sonamarg.
+
+7-Day Itinerary
+
+Day 1–2: Srinagar
+Day 3: Gulmarg
+Day 4: Pahalgam
+Day 5: Sonamarg
+Day 6–7: Srinagar
+
+Expenses
+
+Accommodation: ₹1500/night
+Food: ₹600/day
+Transport: ₹1000/day
+
+Total: ₹22,000–₹30,000
+
+Tips
+
+Carry warm clothes
+
+Check travel advisories
+
+Pre-book taxis
+
+
+best_time_map = {
+    "Goa": "November to February",
+    "Kerala": "October to March",
+    "Rajasthan": "October to March",
+    "Delhi": "October to March",
+    "Himachal": "March to June",
+    "Tamil Nadu": "October to March",
+    "Kashmir": "April to October"
+}
+
+
+🏖️ Goa
+💎 Luxury
+
+Taj Exotica Resort & Spa, Benaulim
+
+The Leela Goa, Cavelossim
+
+🏨 Mid-range
+
+Lemon Tree Amarante Beach Resort, Candolim
+
+Radisson Blu Resort, Cavelossim
+
+💰 Budget
+
+Zostel Goa (Calangute / Anjuna)
+
+La Sunila Suites, Baga
+
+🌴 Kerala
+💎 Luxury
+
+Kumarakom Lake Resort, Kumarakom
+
+The Leela Kovalam
+
+🏨 Mid-range
+
+Fragrant Nature, Kochi
+
+Abad Turtle Beach, Marari
+
+💰 Budget
+
+Zostel Kochi
+
+Treebo Trend Hotels (multiple cities)
+
+🏰 Rajasthan
+💎 Luxury
+
+Umaid Bhawan Palace, Jodhpur
+
+Taj Lake Palace, Udaipur
+
+🏨 Mid-range
+
+Trident Udaipur
+
+Alsisar Haveli, Jaipur
+
+💰 Budget
+
+Zostel Jodhpur
+
+Hotel Pearl Palace, Jaipur
+
+🏛️ Delhi
+💎 Luxury
+
+The Imperial, New Delhi
+
+Taj Palace, New Delhi
+
+🏨 Mid-range
+
+Bloomrooms @ New Delhi Railway Station
+
+The Park, Connaught Place
+
+💰 Budget
+
+Zostel Delhi
+
+Hotel City Star, Paharganj
+
+🏔️ Himachal Pradesh
+💎 Luxury
+
+The Oberoi Cecil, Shimla
+
+Taj Theog Resort & Spa
+
+🏨 Mid-range
+
+Snow Valley Resorts, Manali
+
+Hotel Willow Banks, Shimla
+
+💰 Budget
+
+Zostel Manali
+
+Johnson Lodge & Spa, Manali
+
+🌺 Tamil Nadu
+💎 Luxury
+
+Taj Coromandel, Chennai
+
+ITC Grand Chola, Chennai
+
+🏨 Mid-range
+
+The Residency, Coimbatore
+
+Heritage Madurai
+
+💰 Budget
+
+Zostel Ooty
+
+Hotel Park Plaza, Madurai
+
+🏔️ Kashmir
+💎 Luxury
+
+The Lalit Grand Palace, Srinagar
+
+Vivanta Dal View, Srinagar
+
+🏨 Mid-range
+
+Hotel Dar-Es-Salam, Srinagar
+
+Hotel Pine Spring, Gulmarg
+
+💰 Budget
+
+New Jacquline Heritage Houseboats
+
+Hotel Asian Park, Srinagar
